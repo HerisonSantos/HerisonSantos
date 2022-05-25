@@ -1,7 +1,6 @@
 - 👋 Oi, eu sou @HerisonSantos
-- 👀 Eu sou interessado em java
-- 🌱 Atualmente estou aprendendo e atuando com spring 
-- 💞️ Estou procurando colaborar como programador back-end
+- 👀 Eu sou desenvolvedor Java
+- 🌱 Atualmente estou atuando com Spring e Struts
 - 📫 como me contactar herisonascimento@gmail.com
 
 <!---
